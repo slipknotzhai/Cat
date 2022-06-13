@@ -83,7 +83,6 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 {"key":"诺讯采集","name":"诺讯采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
-],
 //以下直播列表
 "lives": [
 //proxy加载列表
