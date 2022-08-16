@@ -1,6 +1,6 @@
 {
   "spider":"https://github.com/slipknotzhai/Cat/blob/main/top94.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbiUzQS8vVFZCb3gvdHYvemhpYm8udHh0JTAw"]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3NsaXBrbm90emhhaS9DYXQvYmxvYi9tYWluL2xpdmUwODE2LnR4dA=="]}]}],
 
   "sites":[
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
