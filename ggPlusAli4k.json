@@ -535,6 +535,15 @@
 		"filterable": 1,
 		"ext": "3a49cf29cf20410997247c6eb4509be9"
 	}, {
+		"key": "csp_Yisou",
+		"name":"🐞易搜盘",
+		"type":3,
+		"api":"csp_Yisou",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":0,
+		"ext":"https://github.com/slipknotzhai/Cat/blob/main/ali4k.jar"		
+	}, {	
 		"key": "zhaozy",
 		"name": "🗂️找资源(仅搜索)",
 		"type": 3,
